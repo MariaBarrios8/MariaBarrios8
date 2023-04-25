@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rocío !</h1>
 <h3 align="center">A curious and hardworking developer from Argentina</h3>
 
-- 🔭 I’m currently graduated from the **SoyHenry bootcamp**
+- 🔭 I’m a graduated from the **SoyHenry bootcamp**
 
 - 🌱 I’m currently learning **React Native - NextJS**
 
