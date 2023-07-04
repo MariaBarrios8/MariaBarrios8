@@ -9,7 +9,7 @@
 
 - 🔭 I’m a graduated from the **SoyHenry bootcamp**
 
-- 🌱 I’m currently learning **React Native - NextJS**
+- 🌱 I’m currently learning **TypeScript - React Native - NextJS**
 
 - 💬 Ask me about **JavaScript - CSS - React - Redux - NodeJS - ExpressJS - PostgreSQL - NextJS**
 
