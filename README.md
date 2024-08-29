@@ -7,9 +7,9 @@
 </br>
 🖤🖤🌸🖤🖤
 
-- 🔭 I’m a graduated from the **SoyHenry bootcamp**
+- 🚀 I’m a graduated from the **SoyHenry bootcamp**
 
-- 🌱 I’m currently learning **TypeScript - React Native - NextJS**
+- 🌱 I’m currently learning **Python** I’m also starting my studies for a degree in **Systems Analysis**
 
 - 💬 Ask me about **JavaScript - CSS - React - Redux - NodeJS - ExpressJS - PostgreSQL - NextJS**
 
